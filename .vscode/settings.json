@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "${workspaceFolder}\\venv\\Scripts\\python.exe",
-    "git.ignoreLimitWarning": true
+    "python.pythonPath": "C:\\Users\\inaki\\Documents\\PythonAI\\venv\\scripts\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.linting.enabled": false
 }
